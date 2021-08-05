@@ -36,4 +36,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation 'gov.nasa.worldwind.android:worldwind:0.8.0'
+    implementation 'org.mapsforge:mapsforge-map-reader:0.16.0'
+    implementation 'org.mapsforge:mapsforge-themes:0.16.0'
+    implementation 'net.sf.kxml:kxml2:2.3.0'
+    implementation 'org.mapsforge:mapsforge-map-android:0.16.0'
+    implementation 'com.caverock:androidsvg:1.4'
 }
